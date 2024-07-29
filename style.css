@@ -1,0 +1,49 @@
+html{
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+    background-color:aqua;
+    border: 0px solid black;
+    border-style: dashed;
+    text-align: center;
+    padding: 3px;
+    color:darkblue;
+}
+h3{
+    color:darkblue;
+    background-color: aqua;
+    text-align: center;
+    border: 0px solid black;
+    font-style: italic;
+}
+p{
+    color:darkblue;
+    font-weight: bolder;
+}
+.text{
+    text-align: left;
+}
+ul{
+    color:darkblue;
+    margin-top: 5px;
+    font-weight:bold;
+}
+ol{
+    color:darkblue;
+    margin-left: 5px;
+    font-weight: bolder;
+}
+.red-text{
+    color:darkblue;
+}
+#main{
+    color:darkblue;
+}
+img{
+    border: 5px solid blue;
+    border-style: double;
+    padding: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
