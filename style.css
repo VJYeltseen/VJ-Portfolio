@@ -20,6 +20,7 @@ h2{
 p{
     color:darkblue;
     font-weight: bolder;
+    text-size-adjust: 5px;
 }
 .text{
     text-align: left;
